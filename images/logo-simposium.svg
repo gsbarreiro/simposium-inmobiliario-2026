@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 150" role="img" aria-labelledby="title desc">
+<title id="title">10° Simposium Inmobiliario CANACO CDMX</title>
+<desc id="desc">Identidad gráfica con edificios y el nombre del evento.</desc>
+<g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+<path stroke-width="8" d="M12 132c84-25 178-30 290-8 50 10 94 10 136 0"/>
+<path stroke-width="8" d="M52 115V50l35-16v81M87 115V18M122 115V42l34 12v61"/>
+<path stroke-width="6" d="M65 67h8m-8 16h8m-8 16h8m70-29h-8m8 17h-8m8 17h-8"/>
+</g>
+<g fill="#fff" font-family="Montserrat,Arial,sans-serif">
+<text x="184" y="42" font-size="36" font-weight="700">10°</text>
+<text x="184" y="82" font-size="34" font-weight="500">Simposium Inmobiliario</text>
+<text x="184" y="117" font-size="25" font-weight="500" letter-spacing="3">CANACO CDMX</text>
+</g>
+</svg>
