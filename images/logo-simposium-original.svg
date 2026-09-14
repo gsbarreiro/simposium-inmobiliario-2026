@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 390" role="img" aria-labelledby="title desc">
+  <title id="title">10° Simposium Inmobiliario CANACO CDMX</title>
+  <desc id="desc">Logotipo blanco del décimo Simposium Inmobiliario CANACO CDMX con edificios y trazo curvo.</desc>
+
+  <!-- Símbolo inmobiliario -->
+  <g fill="#fff">
+    <!-- edificio izquierdo -->
+    <path d="M76 273V145c0-11 6-21 16-26l58-30v184z"/>
+    <rect x="137" y="49" width="10" height="229" rx="5"/>
+    <rect x="154" y="37" width="10" height="241" rx="5"/>
+    <!-- edificio derecho -->
+    <path d="M171 273V112l63 24v137z"/>
+    <!-- ventanas edificio izquierdo -->
+    <rect x="98" y="152" width="12" height="14" rx="1"/>
+    <rect x="116" y="145" width="12" height="14" rx="1"/>
+    <rect x="98" y="177" width="12" height="14" rx="1"/>
+    <rect x="116" y="170" width="12" height="14" rx="1"/>
+    <rect x="98" y="202" width="12" height="14" rx="1"/>
+    <rect x="116" y="195" width="12" height="14" rx="1"/>
+    <!-- ventanas edificio derecho -->
+    <rect x="190" y="151" width="12" height="14" rx="1"/>
+    <rect x="208" y="158" width="12" height="14" rx="1"/>
+    <rect x="190" y="177" width="12" height="14" rx="1"/>
+    <rect x="208" y="184" width="12" height="14" rx="1"/>
+    <rect x="190" y="203" width="12" height="14" rx="1"/>
+    <rect x="208" y="210" width="12" height="14" rx="1"/>
+  </g>
+
+  <!-- Texto -->
+  <g fill="#fff" font-family="Montserrat, Arial, Helvetica, sans-serif">
+    <text x="268" y="91" font-size="68" font-weight="500">10°</text>
+    <text x="268" y="157" font-size="54" font-weight="400" letter-spacing="1">Simposium</text>
+    <text x="268" y="220" font-size="54" font-weight="400" letter-spacing="1">Inmobiliario</text>
+    <text x="268" y="274" font-size="38" font-weight="400" letter-spacing="3">CANACO CDMX</text>
+  </g>
+
+  <!-- trazo envolvente inferior -->
+  <path d="M28 293c46-34 108-48 170-43-39 8-68 21-89 38 121 34 361 34 598-5-55 39-194 71-363 74-137 2-251-17-316-43-15-6-15-14 0-21z" fill="#fff"/>
+</svg>
