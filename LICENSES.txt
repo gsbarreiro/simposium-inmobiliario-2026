@@ -1,0 +1,15 @@
+FUENTES
+
+Montserrat
+Copyright 2011 The Montserrat Project Authors
+Licencia SIL Open Font License 1.1
+https://github.com/google/fonts/tree/main/ofl/montserrat
+
+Source Sans 3
+Copyright 2010-2023 Adobe
+Licencia SIL Open Font License 1.1
+https://github.com/google/fonts/tree/main/ofl/sourcesans3
+
+RECURSOS GRÁFICOS
+
+Los gráficos del hero, galería, logotipo y favicon forman parte de esta propuesta de plantilla para el 10° Simposium Inmobiliario CANACO CDMX.
