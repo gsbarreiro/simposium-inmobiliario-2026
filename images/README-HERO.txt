@@ -1,1 +1,0 @@
-El archivo hero-simposium-2026.jpg debe reemplazarse por la versión HQ del banner integrado.
